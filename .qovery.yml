@@ -1,0 +1,7 @@
+application:
+  name: httpbin
+  project: redisQoveryDeployzjoMv07y
+databases:
+- type: redis
+  version: 6
+  name: e2e-redis
